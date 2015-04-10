@@ -6,14 +6,28 @@
 <body>
 <img src="f.png">
 This is the button I created through Fireworks.
+<a href=""
+
+<h1>Look and Feel Discussion</h1>
+<ul>
+  ul>
+  <li>We want our website to not feel overly complicated. A simple design and a theme with just one main colour will allow the audience to focus on the main purpose of this website</li>
+  <li>We want our website to be simple so that our audience can focus on filling out the information and obtaining information about Community Service</li>
+  <li>Since our website is a page for signing up, we want the main focus of our website to be the signing up function.</li>
+  <li>We want our smooth and easy website to lead people into signing up for different Community Service events. </li>
+</ul>
+</ul>
+<h1>Compare and Contrast</h1>
+<ul>
+  <li>Although Fireworks and Dreamweaver are both programs that can be used to create buttons, they both have their advantages and disadvantages</li>
+  <li>Creating graphical buttons is more visually appealing, and it is also easier for the user of the button to figure out the state they are in</li>
+  <li>An example of this would be when they look at the up state, hover state, and pressed.</li>
+  <li>Just like creating storyboards, it is harder to edit the text on a graphical button</li>
+  <li>Since it isn't exported as text, it cannot be found on search engines because it is an image</li>
+  <li>Using text buttons means that it can be found on search engines and it can also be editted easier.</li>
 
 
-
-
-
-
-
-
+</ul>
 
 </body>
 </html>
